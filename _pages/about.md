@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+![illustration Public Policy](/_images/EBPM.webp){: .align-right width="300px"}
 
 Welcome to my GitHub profile! I’m a passionate Data Scientist and Analyst with a background in **Human Resource Management** from Kampala University. My journey has led me from managing people to managing data, insights, and innovations. I specialize in **Data Analytics**, **Data Visualization**, **Machine Learning**, and **Evidence-Based Policy Making**.
 
