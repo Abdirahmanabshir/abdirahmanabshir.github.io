@@ -21,7 +21,7 @@ repository               : "Abdirahmanabshir/abdirahmanabshir.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Koofiyad.jpg"
+  avatar           : "qalinjabin.jpg"
   name             : "Abdirahman Abshir"
   bio              : "Data scientist and Researcher"
   location         : "Kampala Uganda"
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Abdirahman Abshir
+  linkedin         : Abdirahman Abshir
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # @abdirhmanceegar
+  twitter          : @abdirhmanceegar
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
