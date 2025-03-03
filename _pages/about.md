@@ -1,38 +1,30 @@
 ---
 permalink: /
-title: "Hello there, I'm Abdirahman! 👋!"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to my GitHub profile! I’m a passionate Data Scientist and Analyst with a background in **Human Resource Management** from Kampala University. My journey has led me from managing people to managing data, insights, and innovations. I specialize in **Data Analytics**, **Data Visualization**, **Machine Learning**, and **Evidence-Based Policy Making**.
+Hi, I’m Abdirahman Abshir, a data science enthusiast and independent consultant, currently pursuing a Postgraduate Diploma in Information Technology. My expertise spans data analytics, machine learning, business intelligence, and Geographic Information Systems (GIS). I leverage tools like Python, R, SQL, Power BI, Tableau, QGIS, and ArcGIS to analyze data, create visualizations, and optimize decision-making.
 
-### About Me
-With a strong foundation in data analysis and visualization, I bridge the gap between data science and public policy. I believe in the power of data to drive insights and make informed decisions that have a positive impact. My work is driven by curiosity, commitment, and a relentless pursuit of meaningful results.
+My expertise lies in data visualization, automation, and statistical modeling. I am always exploring ways to leverage technology to solve complex problems and drive innovation through data-driven solutions.
 
-#### 🌟 Areas of Expertise
-- **Data Science & Machine Learning**: Transforming complex data into actionable insights.
-- **Data Visualization**: Bringing data stories to life with tools like Power BI and Tableau.
-- **Public Policy Research**: Supporting evidence-based decisions with rigorous data analysis.
-- **Project Planning & Management**: Combining strategic thinking with technical expertise to achieve project goals.
+What I Do
+Data Analysis & Visualization – Transforming raw data into actionable insights.
+Machine Learning & AI – Building predictive models for real-world applications.
+Business Intelligence & Automation – Enhancing efficiency with data-driven strategies.
+GIS & Spatial Analysis – Using QGIS & ArcGIS for location-based insights and mapping.
+Statistical Modeling – Applying advanced techniques for research and analytics.
+![image](https://github.com/user-attachments/assets/8d3b2cb0-7c34-4c59-8837-2300b1fec4ee)
+This visualization illustrates the distribution of registered voters across various regions of Somaliland for the Presidential and Political Party Elections held on November 13, 2024.
+Tools Used:
+R (ggplot2, sf, tmap) – Utilized for data visualization and mapping.
+QGIS – Employed for spatial data processing and analysis
+![Geo_elevation](https://github.com/user-attachments/assets/fd2f21b5-bc4e-4fc0-b124-dfbe18ed9228)
+Geo-Elevation of Nigeria
+This visualization showcases Nigeria's topographical features, including mountains, rivers, wetlands, and plateaus. Key highlights include the Niger Delta, Jos Plateau, Mandara Mountains, and the highest point, Chappal Waddi (2,419m).
 
-#### 🔧 Skills & Tools
-- **Programming**: Python, R
-- **Data Visualization**: Power BI, Tableau
-- **Research Tools**: SPSS, Stata
-- **Machine Learning**: Scikit-Learn, TensorFlow, NLP
-- **Other**: Git, Project Planning, Data Cleaning, Jupyter Notebooks
 
-#### 🚀 Current Projects
-- **Refugee Livelihood Research**: Investigating livelihood migration of Somali refugees in Kampala.
-- **Public Policy Analysis**: Developing data-driven insights to support effective policy-making.
-
-#### 📈 My Goals
-I am constantly expanding my knowledge in **Machine Learning**, **AI**, and **Public Policy** to make a positive impact in the data science field. My goal is to contribute to projects that promote informed decision-making and drive impactful change.
-
----
-
-Thank you for visiting my profile! Feel free to explore my projects and reach out if you’d like to connect or collaborate.
 
