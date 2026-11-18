@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m **Abdirahman Abshir**, a data science enthusiast and independent consultant, currently pursuing a Postgraduate Diploma in Information Technology. My expertise spans data analytics, machine learning, business intelligence, and Geographic Information Systems (GIS). I leverage tools like Python, R, SQL, Power BI, Tableau, QGIS, and ArcGIS to analyze data, create visualizations, and optimize decision-making.
+Hi, I’m **Abdirahman Abshir**, a data science enthusiast and independent consultant, currently pursuing a Graduate Certificate in AI in Business at W. P. Carey School of Business at Arizona State University. My expertise spans data analytics, machine learning, business intelligence, and Geographic Information Systems (GIS). I leverage tools like Python, R, SQL, Power BI, Tableau, QGIS, and ArcGIS to analyze data, create visualizations, and optimize decision-making.
 
 My expertise lies in data visualization, automation, and statistical modeling. I am always exploring ways to leverage technology to solve complex problems and drive innovation through data-driven solutions.
 
